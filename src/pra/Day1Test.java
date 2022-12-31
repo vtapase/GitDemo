@@ -24,6 +24,10 @@ public class Day1Test {
 		 driver = new ChromeDriver(options);
 		 
 		 driver.get("https://expired.badssl.com/");
+		 
+		 System.out.println("Viraj");
+		 
+		 System.out.println("Tapase");
 	}
 
 }
